@@ -1,19 +1,25 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/T0p3sD5.png" alt="Banner de Eduardo Orellana - Desarrollador Full-Stack">
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">¡Hola! 👋 Soy Eduardo Orellana</h1>
+  <h3 align="center">Un desarrollador Full-Stack apasionado por transformar código en experiencias únicas.</h3>
+</div>
 
-<h1 align="center">¡Hola! Soy Eduardo Orellana Pomares 👋</h1>
-<h3 align="center">Un desarrollador Full-Stack con doble titulación en DAM y DAW, especializado en crear aplicaciones web y móviles de alto impacto.</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardo-orellana-pomares-798219153/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://github.com/edufuengirola1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Classroom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Classroom"/>
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edu444477&label=Visitas+al+Perfil&color=0e75b6&style=flat" alt="contador de visitas" /> </p>
+---
 
-¡Bienvenido a mi rincón digital! Soy un programador apasionado por transformar ideas en soluciones funcionales y eficientes. Mi experiencia abarca desde la creación de APIs robustas con **Python/Flask** hasta el desarrollo de interfaces interactivas con **React** y aplicaciones móviles multiplataforma con **React Native**.
+<div align="center">
 
-- 🎓 **Doble Titulación:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW).
-- 🚀 **Mi proyecto destacado:** [**La Nueva Era**](https://github.com/edu444477/LaNuevaEra-Flask-React-App), un marketplace full-stack para cosméticos de videojuegos.
-- 🌱 **Actualmente aprendiendo:** profundizando mis conocimientos en **Ruby** 💎.
-- 📫 **Hablemos:** Siempre abierto a nuevas oportunidades y colaboraciones. ¡Conecta conmigo en [**LinkedIn**](https://www.linkedin.com/in/eduardo-orellana-pomares-798219153/)!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Desarrollador+Full-Stack;React+%26+React+Native;Python+%26+Flask;MySQL+%26+PostgreSQL;Git+%26+GitHub;TailwindCSS;Android+Studio)
+
+</div>
 
 ---
 
