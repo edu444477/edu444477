@@ -1,79 +1,78 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">¡Hola! 👋 Soy Eduardo Orellana</h1>
-  <h3 align="center">Un desarrollador Full-Stack apasionado por transformar código en experiencias únicas.</h3>
-</div>
+# Eduardo Orellana Pomares
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-orellana-pomares-798219153/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  <a href="https://github.com/edufuengirola1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Classroom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Classroom"/>
-  </a>
-</div>
+Desarrollador **Full Stack** en Marbella. Construyo aplicaciones web y móviles
+para entornos empresariales: **React** y **React Native** en el frontend,
+**Ruby on Rails** y **PostgreSQL** en el backend. **Angular** y **Flask** los
+trabajo en proyectos propios.
+
+[Portfolio](https://portfolio-sooty-zeta-11.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eduardoorellanapomares/) · [eduardoorellanapomares@gmail.com](mailto:eduardoorellanapomares@gmail.com)
 
 ---
 
-<div align="center">
+## Proyectos
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Desarrollador+Full-Stack;React+%26+React+Native;Python+%26+Flask;MySQL+%26+PostgreSQL;Git+%26+GitHub;TailwindCSS;Android+Studio)
+### [La Nueva Era](https://github.com/edu444477/LaNuevaEra-Flask-React-App) · TFG, 2025
 
-</div>
+Marketplace de cosméticos para videojuegos, de la base de datos a la app móvil.
+API REST en **Flask** con MySQL, SPA en **React + Vite + Tailwind** y app
+**Android** que envuelve la web.
 
----
+- 18 endpoints REST, 12 tablas, 10 juegos y 5 categorías en producción.
+- Autenticación con JWT, carrito, pedidos, deseos, inventario e intercambios.
+- [Demo](https://edufuengirola1.eu.pythonanywhere.com/)
 
-<h3 align="center">🛠️ Mi Caja de Herramientas Tecnológicas</h3>
+### [Portfolio](https://github.com/edu444477/portfolio) · 2026
 
-<p align="center">
-  <strong>Frontend & Móvil</strong><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
-<p align="center">
-  <strong>Backend</strong><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-</p>
-<p align="center">
-  <strong>Bases de Datos y Herramientas</strong><br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
+Sitio bilingüe (ES/EN) con **Angular 22**, **Tailwind 4** y **GSAP**. Prerender
+estático, tema claro y oscuro, casos de estudio y formulario de contacto con
+función serverless.
 
 ---
 
-<h3 align="center">✨ Mi Proyecto Destacado</h3>
+## Experiencia
 
-<p align="center">
-  <a href="https://github.com/edu444477/LaNuevaEra-Flask-React-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edu444477&repo=LaNuevaEra-Flask-React-App&theme=dracula&show_owner=true" />
-  </a>
-</p>
+| Puesto | Empresa | Fechas |
+|---|---|---|
+| Desarrollador Full Stack | VoIPer Telecom | jun. 2025 – jun. 2026 |
+| Desarrollador Frontend | A-Safe Digital | nov. 2023 – may. 2024 |
+| Desarrollador Full Stack | Elitech Lab | abr. 2023 – jun. 2023 |
 
----
-
-<h3 align="center">📊 Mis Estadísticas en GitHub</h3>
-
-<p align="center">
-  <a href="https://github.com/edu444477">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu444477&layout=compact&theme=dracula" height="180em" alt="Lenguajes más usados"/>
-  </a>
-</p>
+En **Time At Work (TAW)** trabajé el producto de punta a punta: apps iOS y
+Android con React Native, frontend web en React, API REST en Ruby on Rails con
+PostgreSQL y un asistente de IA integrado en la plataforma.
 
 ---
 
-<h3 align="center">🔗 Conecta Conmigo</h3>
-<p align="center">
-<a href="https://linkedin.com/in/eduardo-orellana-pomares-798219153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mi perfil de LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/edufuengirola1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mi GitHub Institucional" height="30" width="40" /></a>
-</p>
+## Stack
+
+`React` · `React Native` · `TypeScript` · `Next.js` · `Tailwind CSS` ·
+`Ruby on Rails` · `Angular` · `Flask` · `PostgreSQL` · `MySQL` · `Git`
+
+Formación: CFGS **Desarrollo de Aplicaciones Multiplataforma** (I.E.S.
+Fuengirola Nº 1, 2025) y CFGS **Desarrollo de Aplicaciones Web** (I.E.S. Mar de
+Alborán, 2023, Diploma de Honor).
+
+---
+
+## Idiomas
+
+Español nativo · Inglés técnico (lectura y escritura).
+
+<details>
+<summary>English</summary>
+
+### Full Stack Developer · Marbella, Spain
+
+I build web and mobile applications for business environments: **React** and
+**React Native** on the frontend, **Ruby on Rails** and **PostgreSQL** on the
+backend. I use **Angular** and **Flask** in personal projects.
+
+- **[La Nueva Era](https://github.com/edu444477/LaNuevaEra-Flask-React-App)** —
+  final degree project (2025): Flask REST API with MySQL, React SPA and an
+  Android app wrapping the web client.
+- **[Portfolio](https://github.com/edu444477/portfolio)** — bilingual site built
+  with Angular 22, Tailwind 4 and GSAP, statically prerendered.
+
+Spanish native · Technical English (reading and writing).
+
+</details>
