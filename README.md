@@ -5,7 +5,7 @@ para entornos empresariales: **React** y **React Native** en el frontend,
 **Ruby on Rails** y **PostgreSQL** en el backend. **Angular** y **Flask** los
 trabajo en proyectos propios.
 
-[Portfolio](https://portfolio-sooty-zeta-11.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eduardoorellanapomares/) · [eduardoorellanapomares@gmail.com](mailto:eduardoorellanapomares@gmail.com)
+[Portfolio](https://eduardoorellana.vercel.app) · [LinkedIn](https://www.linkedin.com/in/eduardoorellanapomares/) · [eduardoorellanapomares@gmail.com](mailto:eduardoorellanapomares@gmail.com)
 
 ---
 
